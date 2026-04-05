@@ -21,7 +21,9 @@
 
 ## 다운로드
 
+- APK 파일: [`KORMAP-TV-v25.apk`](./KORMAP-TV-v25.apk)
 - 소스 스냅샷: [`KORMAP-TV-v25.zip`](./KORMAP-TV-v25.zip)
+- 저장소 소스 내려받기: GitHub 상단 `Code` 버튼의 `Download ZIP` 사용
 
 ## 유의사항
 
